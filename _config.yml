@@ -1,4 +1,3 @@
-layout_spectrum: 0.04854048159904778
 typography_spectrum: 0.3646048230584711
 color:
   brandStrength: 0.6342681634705514
@@ -11,4 +10,6 @@ color:
     - '#000000'
     - '#FF6568'
     - '#535353'
+layout_spectrum: 0.04854048159904778
 name: BITESIZEBYMRMO
+title: BITESIZE LESSONS
